@@ -76,7 +76,13 @@ public class GoogleDemoTestNg {
 		 
 		 //New SampleModel
 		 
+		 @Test
 		 
+		 piblic void NewBranch(){
+			 
+			 system.out.println("Hello")
+			 
+		 }
 		 
 		 
 		 
