@@ -77,6 +77,13 @@ public class GoogleDemoTestNg {
 		 //New SampleModel
 		 
 		 
+		 public void masterBranchcode(){
+			 
+			 
+			 sys("Masterbranchcode")
+		 }
+		 
+		 
 		 
 		 
 		 
